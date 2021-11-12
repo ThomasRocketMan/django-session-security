@@ -27,5 +27,5 @@ msgid "Your session is about to expire"
 msgstr "Jouw sessie verloopt bijna"
 
 #: templates/session_security/dialog.html:7
-msgid "Click to extend your session."
-msgstr "Klik om je sessie te verlengen."
+msgid "Click or type to extend your session."
+msgstr "Klik of typ om je sessie te verlengen."
